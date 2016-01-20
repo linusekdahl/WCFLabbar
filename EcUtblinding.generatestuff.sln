@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcUtblinding.generatestuff", "EcUtblinding.generatestuff\EcUtblinding.generatestuff.csproj", "{5760F1C7-4BBC-4D13-9641-0B93AD03C44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient", "WinFormClient\WinFormClient.csproj", "{73DEAA36-962E-4034-A579-20A47F4271EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIClient", "BMIClient\BMIClient.csproj", "{D9BCE614-163E-4FA3-AA17-3C9B4581B2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5760F1C7-4BBC-4D13-9641-0B93AD03C44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5760F1C7-4BBC-4D13-9641-0B93AD03C44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5760F1C7-4BBC-4D13-9641-0B93AD03C44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5760F1C7-4BBC-4D13-9641-0B93AD03C44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DEAA36-962E-4034-A579-20A47F4271EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DEAA36-962E-4034-A579-20A47F4271EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DEAA36-962E-4034-A579-20A47F4271EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DEAA36-962E-4034-A579-20A47F4271EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BCE614-163E-4FA3-AA17-3C9B4581B2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BCE614-163E-4FA3-AA17-3C9B4581B2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BCE614-163E-4FA3-AA17-3C9B4581B2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BCE614-163E-4FA3-AA17-3C9B4581B2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
